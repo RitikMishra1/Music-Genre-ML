@@ -1,0 +1,6 @@
+numpy
+librosa
+requests
+beautifulsoup4
+scikit-learn
+tensorflow
